@@ -30,9 +30,9 @@ Lenguajes de programación / marcación
 
 # 🚀 **Acerca de**
 
-Imagina un mundo más justo y al alcanze de todos, que no exista
-prefesiones, sino que nosotros mismos seamos lo que se le denomina
-**profesión** entonces, todos seríamos únicos y especiales.
+Imagina un mundo más justo y al alcance de todos, que no exista
+profesiones, si no que nosotros mismos seamos lo que se les denomina
+**profesión**, entonces, todos seríamos únicos y especiales.
 
 *Desarrollo de softwares* y proyectos útiles (o quizá inútiles) dependiendo
 del uso que se le pueda dar.
